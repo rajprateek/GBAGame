@@ -1,0 +1,4 @@
+main.o: main.c text.h
+mylib.o: mylib.c
+text.o: text.c text.h
+font.o: font.c
