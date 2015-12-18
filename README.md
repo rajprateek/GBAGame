@@ -1,4 +1,4 @@
 GBAGame
 =======
 
-Working GBA Game with winning/loosing conditions and collision detection. Developed as a project for a course. .
+Working GBA Game with winning/loosing conditions and collision detection. Works on GBA game emulators on Android!
